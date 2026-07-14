@@ -10,6 +10,8 @@ Se utilizó un usuario sin privilegios elevados y se verificó que el sistema es
 
 ![Usuario estándar](evidencias/02-usuario-estandar.png)
 ![APT Update](evidencias/03-apt-update.png)
+Se ejecutó apt update para verificar actualizaciones disponibles del sistema.
+
 
 ## 3. Permisos y gestión
 Se revisaron permisos de archivos con `ls -l` y se buscaron actualizaciones de paquetes con `sudo apt update`.
