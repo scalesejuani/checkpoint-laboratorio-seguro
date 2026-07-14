@@ -18,6 +18,9 @@ Se revisaron permisos de archivos con `ls -l` y se buscaron actualizaciones de p
 
 ![Permisos](evidencias/04-ls-l-permisos.png)
 
+Se revisaron los permisos de un archivo creado en Linux con ls -l.
+
+
 ## 4. Snapshot inicial
 Se creó una instantánea inicial llamada `Clean Install - Hardening applied`.
 
