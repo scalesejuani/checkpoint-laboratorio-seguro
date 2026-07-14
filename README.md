@@ -22,7 +22,7 @@ Se creó una instantánea inicial llamada `Clean Install - Hardening applied`.
 ![Snapshot](evidencias/05-snapshot-clean-install-hardening-applied.png)
 
 
-Durante la ejecución del laboratorio, la instalación de Ubuntu en VirtualBox presentó fallas de arranque/carga que impidieron completar la generación de todas las evidencias solicitadas. Se documentó la configuración de red en NAT y el estado del entorno como evidencia parcial del intento de implementación.
+Durante la ejecución del laboratorio, la instalación de Ubuntu en VirtualBox presentó fallas de arranque/carga que impidieron completar la generación de todas las evidencias solicitadas, siempre se congelaba al final del procedimiento. Se documentó la configuración de red en NAT y el estado del entorno como evidencia parcial del intento de implementación.
 
 <img width="1270" height="880" alt="image" src="https://github.com/user-attachments/assets/780477dc-47ef-4246-b21f-0af4505dc4d4" />
 
